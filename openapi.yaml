@@ -13,6 +13,8 @@ info:
     url: https://github.com/developerallwhen/api/blob/master/LICENSE
 servers:
   - url: https://api.openai.allwhen.online/v1
+authorization: 
+  - token: "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.e30.R2p4wXWJ5vGiR2JJvQpo9qxRpmUzJwZ_8ph9Zw3lft4"
 tags:
   - name: Assistants
     description: Build Assistants that can call models and use tools.
