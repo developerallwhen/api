@@ -1,13 +1,13 @@
 openapi: 3.0.0
 info:
-  title: OpenAI API
+  title: Allwhen API
   description: The OpenAI REST API. Please see
     https://api.openai.allwhen.online/ for more details.
   version: 2.3.0
-  termsOfService: https://allwhen.online/policies/terms-of-use
+  termsOfService: https://allwhen.online/#terms-of-use
   contact:
-    name: OpenAI Support
-    url: https://help.allwhen.online/
+    name: Allwhen Support
+    url: https://allwhen.online/
   license:
     name: MIT
     url: https://github.com/developerallwhen/api/blob/master/LICENSE
